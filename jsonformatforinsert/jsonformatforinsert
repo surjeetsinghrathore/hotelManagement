@@ -1,0 +1,29 @@
+
+{	
+	"user" :
+  {
+  	"id" : 1,
+    "name": "Shubham",
+    "email": "shubham@gmail.com",
+    "mobileno": 7898,
+    "checkin": "2022-11-10",
+    "checkout": "2022-11-20",
+    "role":"VISITOR"
+        
+  }
+  ,
+  "rooms" :
+   [{ 
+    "roomno": "1",
+    "status":"true",
+    "facility": "A/C"
+         
+   },
+   { 
+    "roomno": "2",
+    "status":"true",
+    "facility": "A/C"
+        
+   }]
+   
+}
